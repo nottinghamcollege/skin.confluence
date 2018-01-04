@@ -646,11 +646,11 @@ msgstr ""
 #empty strings from id 31911 to 31949
 
 msgctxt "#31950"
-msgid "WEATHER"
+msgid "Weather"
 msgstr ""
 
 msgctxt "#31951"
-msgid "PICTURES"
+msgid "Pictures"
 msgstr ""
 
 msgctxt "#31952"
@@ -658,33 +658,33 @@ msgid "TV"
 msgstr ""
 
 msgctxt "#31953"
-msgid "VIDEOS"
+msgid "Videos"
 msgstr ""
 
 msgctxt "#31954"
-msgid "MOVIES"
+msgid "TV Content"
 msgstr ""
 
 msgctxt "#31955"
-msgid "TV SHOWS"
+msgid "TV Shows"
 msgstr ""
 
 msgctxt "#31956"
-msgid "MUSIC"
+msgid "Music"
 msgstr ""
 
 msgctxt "#31957"
-msgid "PROGRAMS"
+msgid "Apps"
 msgstr ""
 
 msgctxt "#31958"
-msgid "PLAY DISC"
+msgid "Play Disc"
 msgstr ""
 
 msgctxt "#31959"
-msgid "SYSTEM"
+msgid "System"
 msgstr ""
 
 msgctxt "#31960"
-msgid "RADIO"
+msgid "Radio"
 msgstr ""
