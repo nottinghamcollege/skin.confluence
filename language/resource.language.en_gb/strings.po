@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Confluence
-# Addon id: skin.confluence
-# Addon Provider: Jezz_X, Team Kodi
+# Addon Name: Confluence (Nottingham College)
+# Addon id: skin.confluence.nottmcoll
+# Addon Provider: Nottingham College
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
