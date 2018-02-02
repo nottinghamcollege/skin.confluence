@@ -1,0 +1,11 @@
+*.git*
+*.gitignore*
+*.sh
+*.bat
+README.md
+*Thumbs.db*
+*.DS_Store*
+*.zip
+media/**.jpg
+media/**.png
+exclude-build.txt
